@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/KGT-Task/static/css/main.9fa21684.css",
+    "main.js": "/KGT-Task/static/js/main.51f6590d.js",
+    "static/js/453.f213b50b.chunk.js": "/KGT-Task/static/js/453.f213b50b.chunk.js",
+    "static/media/mysore.jpg": "/KGT-Task/static/media/mysore.f14cb9136bf4997ce67f.jpg",
+    "index.html": "/KGT-Task/index.html",
+    "main.9fa21684.css.map": "/KGT-Task/static/css/main.9fa21684.css.map",
+    "main.51f6590d.js.map": "/KGT-Task/static/js/main.51f6590d.js.map",
+    "453.f213b50b.chunk.js.map": "/KGT-Task/static/js/453.f213b50b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fa21684.css",
+    "static/js/main.51f6590d.js"
+  ]
+}
